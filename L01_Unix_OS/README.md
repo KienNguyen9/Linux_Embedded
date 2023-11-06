@@ -1,5 +1,6 @@
-# Entry requirements: knowledge about e C and microcontroller
+# Entry requirements: knowledge about C programming language and microcontroller
 # Knowledge gained after the course: Can write device driver
+
 ## Objective: 
 Training Linux Embedded for people who have good knowledge about C programming and MCU
 ## Roadmap
