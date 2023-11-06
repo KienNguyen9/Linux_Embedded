@@ -53,6 +53,7 @@ Có rất nhiều tính năng, và tương đồng nhau, ko có cái nào nổi 
 - Máy tính xử lí thông tin nhanh hơn não con người rất nhiều
 - Hệ điều hành đa nhiệm: là chuyển đổi giữa các task trong thời gian rất ngắn, tạo ra cảm giác máy có thể làm nhiều task 1 lúc, nhưng thật ra là trong thời gian hiện tại máy chỉ có thể làm 1 task 
 - HĐH đa nhiệm có thể chạy trân hệ thống single core đc không ?
-# Hệ thống file system 
-- Thư mục root (giống thư mục "My PC" ở Window)
--  
+    -> Có thể chạy đa nhiệm bình thường.
+# Hệ thống file system:
+Là thư mục root (giống thư mục "My PC" ở Window)
+
